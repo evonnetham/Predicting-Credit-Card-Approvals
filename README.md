@@ -6,4 +6,4 @@ Commercial banks receive <em>a lot</em> of applications for credit cards. Many o
 <img src="https://assets.datacamp.com/production/project_558/img/credit_card.jpg" alt="Credit card being held in hand">
 We'll use the <a href="http://archive.ics.uci.edu/ml/datasets/credit+approval">Credit Card Approval dataset</a> from the UCI Machine Learning Repository.
 
-Through Logistic Regression and GridSearchCV we are able to achieve the best accuracy score of more than 85% with the best respective parameters.
+Through Logistic Regression and GridSearchCV we are able to achieve the best accuracy score of more than 85% with the best respective parameters. 
